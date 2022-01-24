@@ -1,19 +1,24 @@
 # Project Planning
+
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
+
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ## Submission Instructions
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Link to the project Figma with some very fleshed out wireframes: [Figma document](https://www.figma.com/file/Tm5iTbBowi92L9iFqKB4kN/ShelterApp)
+Link to the project Figma prototype which can show some of the behaviors of the app in action: [Figma Prototype](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=0%3A1)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Here is our [Project Trello!](https://trello.com/b/9zuxEi3D/agile-sprint-board)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+[Front-end](https://github.com/edlopez000/shelter-app-frontend)
+[Back-end](https://github.com/edlopez000/shelter-app-backend)
